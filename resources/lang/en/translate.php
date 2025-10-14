@@ -288,9 +288,21 @@ Our services cover the full spectrum of IT, including comprehensive solutions de
 
     'bitrix_store_crm' => 'Bitrix24 CRM for Stores',
     'bitrix_users_12' => '12 Users',
-    'bitrix_price_store_crm' => '150 RUB',
+    'bitrix_price_store_crm' => '109 000 ₽',
     'bitrix_license_12_months' => '12-Month License',
 
+
+
+
+    'bitrix_users_50' => '50 users',
+    'bitrix_price_50_users' => '159 000 ₽',
+    'bitrix_users_100' => '100 users',
+    'bitrix_price_100_users' => '229 000 ₽',
+    'bitrix_users_250' => '250 users',
+    'bitrix_price_250_users' => '349 000 ₽',
+
+
+    
     'bitrix_extranet' => 'Extranet',
     'bitrix_ecommerce_platform' => 'E-commerce Platform',
     'bitrix_copilot' => 'Copilot',
@@ -302,10 +314,10 @@ Our services cover the full spectrum of IT, including comprehensive solutions de
 
     'bitrix_corporate_portal' => 'Corporate Portal',
     'bitrix_users_500' => '500 Users',
-    'bitrix_price_corporate_portal' => '250 RUB',
+    'bitrix_price_corporate_portal' => '599 000 ₽',
 
     'bitrix_users_1000' => '1000 Users',
-    'bitrix_price_enterprise' => 'On Request',
+    'bitrix_price_enterprise' => '1 299 000 ₽',
 
     // Variables for "Box Solution vs. Cloud" section
     'bitrix_box_vs_cloud' => 'Box Solution vs. Cloud Solution',
