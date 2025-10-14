@@ -314,7 +314,7 @@ return [
 
     'bitrix_store_crm' => 'Битрикс24 CRM для магазинов',
     'bitrix_users_12' => '12 пользователей',
-    'bitrix_price_store_crm' => '524 000 ₸.',
+    'bitrix_price_store_crm' => '109 000 ₽',
     'bitrix_license_12_months' => 'Лицензия на 12 месяцев',
 
     'bitrix_extranet' => 'Экстранет',
@@ -327,19 +327,19 @@ return [
     'bitrix_vip_support' => 'VIP поддержка',
 
     'bitrix_users_50' => '50 пользователей',
-    'bitrix_price_50_users' => '764 000 ₸.',
+    'bitrix_price_50_users' => '159 000 ₽',
     'bitrix_users_100' => '100 пользователей',
-    'bitrix_price_100_users' => '1 100 000 ₸.',
+    'bitrix_price_100_users' => '229 000 ₽',
     'bitrix_users_250' => '250 пользователей',
-    'bitrix_price_250_users' => '1 676 000 ₸.',
+    'bitrix_price_250_users' => '349 000 ₽',
 
 
     'bitrix_corporate_portal' => 'Корпоративный портал',
     'bitrix_users_500' => '500 пользователей',
-    'bitrix_price_corporate_portal' => '2 876 000 ₸.',
+    'bitrix_price_corporate_portal' => '599 000 ₽',
 
     'bitrix_users_1000' => '1000 пользователей',
-    'bitrix_price_enterprise' => 'По запросу',
+    'bitrix_price_enterprise' => '1 299 000 ₽',
 
     // Переменные для секции "Коробочное решение vs. Облако"
     'bitrix_box_vs_cloud' => 'Коробочное решение против Облачного решения',
