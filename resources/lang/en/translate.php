@@ -246,7 +246,7 @@ Our services cover the full spectrum of IT, including comprehensive solutions de
     'bitrix_description' => 'Description',
     'bitrix_users' => 'Users',
     'bitrix_cloud_space' => 'Cloud Space',
-
+    'bitrix_prices_note' => 'All prices are in rubles. Current prices are available on the Bitrix24 website via <a href="https://www.bitrix24.eu/prices/">this link</a>.',
     'bitrix_free' => 'Free',
     'bitrix_price_free' => '0 RUB',
     'bitrix_for_start' => 'For Start',
