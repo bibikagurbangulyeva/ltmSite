@@ -52,9 +52,7 @@
                 <!-- Tab content: Облачное решение -->
                 <div id="content-cloud" class="tab-content">
                     <h3 class="text-xl font-bold mb-2">{{ __('translate.bitrix_cloud_solution') }}</h3>
-                    <p class="mb-4 text-sm text-gray-400">
-                        Все цены указаны в тенге. Актуальные цены на сайте Битрикс24 по <a href="https://www.bitrix24.kz/prices/">ссылке</a>
-                    </p>
+                    <p class="mb-4 text-sm text-gray-400">{{ __('translate.bitrix_prices_note') }}</p>
 
                     <div class="overflow-x-auto">
                         <table
