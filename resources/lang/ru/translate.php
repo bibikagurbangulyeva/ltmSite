@@ -272,6 +272,7 @@ return [
     'bitrix_description' => 'Описание',
     'bitrix_users' => 'Пользователи',
     'bitrix_cloud_space' => 'Облачное пространство',
+    'bitrix_prices_note' => 'Все цены указаны в рублях. Актуальные цены на сайте Битрикс24 по <a href="https://www.bitrix24.kz/prices/">ссылке</a>.',
 
     'bitrix_free' => 'Бесплатно',
     'bitrix_price_free' => '0.',
