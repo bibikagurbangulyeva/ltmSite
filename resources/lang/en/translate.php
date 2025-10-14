@@ -248,28 +248,28 @@ Our services cover the full spectrum of IT, including comprehensive solutions de
     'bitrix_cloud_space' => 'Cloud Space',
 
     'bitrix_free' => 'Free',
-    'bitrix_price_free' => '0 RUB',
+    'bitrix_price_free' => '0 ₽',
     'bitrix_for_start' => 'For Start',
     'bitrix_unlimited' => 'Unlimited',
     'bitrix_space_5gb' => '5 GB',
 
     'bitrix_basic' => 'Basic',
-    'bitrix_price_basic_old' => '2,490 RUB',
-    'bitrix_price_basic_new' => '1,743 RUB',
+    'bitrix_price_basic_old' => '2,490 ₽',
+    'bitrix_price_basic_new' => '1,743 ₽',
     'bitrix_for_small_teams' => 'For Small Teams',
     'bitrix_users_5' => '5 Users',
     'bitrix_space_24gb' => '24 GB',
 
     'bitrix_standard' => 'Standard',
-    'bitrix_price_standard_old' => '6,990 RUB',
-    'bitrix_price_standard_new' => '4,893 RUB',
+    'bitrix_price_standard_old' => '6,990 ₽',
+    'bitrix_price_standard_new' => '4,893 ₽',
     'bitrix_for_large_teams' => 'For Large Teams',
     'bitrix_users_50' => '50 Users',
     'bitrix_space_100gb' => '100 GB',
 
     'bitrix_professional' => 'Professional',
-    'bitrix_price_professional_old' => '13,990 RUB',
-    'bitrix_price_professional_new' => '9,793 RUB',
+    'bitrix_price_professional_old' => '13,990 ₽',
+    'bitrix_price_professional_new' => '9,793 ₽',
     'bitrix_for_companies' => 'For Companies',
     'bitrix_users_100' => '100 Users',
     'bitrix_space_1024gb' => '1 TB',
@@ -288,7 +288,7 @@ Our services cover the full spectrum of IT, including comprehensive solutions de
 
     'bitrix_store_crm' => 'Bitrix24 CRM for Stores',
     'bitrix_users_12' => '12 Users',
-    'bitrix_price_store_crm' => '150 RUB',
+    'bitrix_price_store_crm' => '150 ₽',
     'bitrix_license_12_months' => '12-Month License',
 
     'bitrix_extranet' => 'Extranet',
@@ -302,7 +302,7 @@ Our services cover the full spectrum of IT, including comprehensive solutions de
 
     'bitrix_corporate_portal' => 'Corporate Portal',
     'bitrix_users_500' => '500 Users',
-    'bitrix_price_corporate_portal' => '250 RUB',
+    'bitrix_price_corporate_portal' => '250 ₽',
 
     'bitrix_users_1000' => '1000 Users',
     'bitrix_price_enterprise' => 'On Request',
