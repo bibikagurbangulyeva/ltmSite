@@ -336,7 +336,7 @@ Taslamany dolandyrmak boýunça müşderä okuw berýäris we onuň ösüşi hem
     'bitrix_description' => 'Düşündiriş',
     'bitrix_users' => 'Ulanyjylar',
     'bitrix_cloud_space' => 'Bulut Ýerleşigi',
-
+    'bitrix_prices_note' => 'Ähli bahalar rubl bilen görkezilýär. Häzirki bahalar Bitrix24 saýtynda <a href="https://www.bitrix24.ru/prices/">şu salgy boýunça</a> elýeterlidir.',
     'bitrix_free' => 'Mugt',
     'bitrix_price_free' => '0 RUB',
     'bitrix_for_start' => 'Başlamak üçin',
