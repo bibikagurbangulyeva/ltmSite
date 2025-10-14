@@ -374,11 +374,19 @@ Taslamany dolandyrmak boýunça müşderä okuw berýäris we onuň ösüşi hem
     'bitrix_box_solution' => 'Bitrix24 Gutujyk Çözgüdi',
     'bitrix_editions' => 'Neşirler',
     'bitrix_more_info' => 'Has giňişleýin maglumat',
-    'bitrix_additional' => 'Goşmaça',
+    'bitrix_additional' => 'Goşmaça',  
 
+    'bitrix_users_50' => '50 Ulanyjy',
+    'bitrix_price_50_users' => '159 000 ₽',
+    'bitrix_users_100' => '100 Ulanyjy',
+    'bitrix_price_100_users' => '229 000 ₽',
+    'bitrix_users_250' => '250 Ulanyjy',
+    'bitrix_price_250_users' => '349 000 ₽',
+
+    
     'bitrix_store_crm' => 'Bitrix24 CRM Dükany üçin',
     'bitrix_users_12' => '12 Ulanyjy',
-    'bitrix_price_store_crm' => '150 RUB',
+    'bitrix_price_store_crm' => '109 000 ₽',
     'bitrix_license_12_months' => '12 Aýlyk Lisenziýa',
 
     'bitrix_extranet' => 'Ekstranet',
@@ -392,10 +400,10 @@ Taslamany dolandyrmak boýunça müşderä okuw berýäris we onuň ösüşi hem
 
     'bitrix_corporate_portal' => 'Korporatiw Portal',
     'bitrix_users_500' => '500 Ulanyjy',
-    'bitrix_price_corporate_portal' => '250 RUB',
+    'bitrix_price_corporate_portal' => '599 000 ₽',
 
     'bitrix_users_1000' => '1000 Ulanyjy',
-    'bitrix_price_enterprise' => 'Sorag boýunça',
+    'bitrix_price_enterprise' => '1 299 000 ₽',
 
     // "Gutujyk Çözgüdi vs. Bulut" bölümi üçin üýtgeýänler
     'bitrix_box_vs_cloud' => 'Gutujyk Çözgüdi vs. Bulut Çözgüdi',
